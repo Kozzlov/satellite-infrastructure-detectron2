@@ -1,0 +1,5 @@
+detectron2_infrastructure_detection.ipynb filter=lfs diff=lfs merge=lfs -text
+output/model_final.pth filter=lfs diff=lfs merge=lfs -text
+*.zpth filter=lfs diff=lfs merge=lfs -text
+*.pth filter=lfs diff=lfs merge=lfs -text
+*.ipynb filter=lfs diff=lfs merge=lfs -text
